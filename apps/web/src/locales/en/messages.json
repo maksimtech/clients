@@ -18065,6 +18065,12 @@
   "pamMyRequestsPendingEmpty": {
     "message": "No pending requests"
   },
+  "pamMyRequestsEmptyTitle": {
+    "message": "You have no requests"
+  },
+  "pamMyRequestsEmptyDescription": {
+    "message": "You have no requests for access to sensitive credentials at the moment."
+  },
   "pamColumnItem": {
     "message": "Item"
   },
